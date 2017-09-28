@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNameCard</string>
+    <string name="subject">情報工学科</string>
+    <string name="mynumber">1601001</string>
+    <string name="name">今泉　駿一</string>
+    <string name="number">080-6745-2371</string>
+    <string name="nickname">ニックネーム</string>
+</resources>
